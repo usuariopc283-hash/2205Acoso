@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sergi\\onedrive\\escritorio\\ps2000\\ps2000con\\prueba.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\sergi\\onedrive\\escritorio\\ps2000\\ps2000con\\ps2000con.h",
+            "c:\\program files\\pico technology\\sdk\\inc\\ps2000.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.44.35207\\include\\stdint.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.44.35207\\include\\vcruntime.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.44.35207\\include\\sal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.44.35207\\include\\concurrencysal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.44.35207\\include\\vadefs.h",
+            "c:\\users\\sergi\\onedrive\\escritorio\\ps2000\\ps2000con\\muestreo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
