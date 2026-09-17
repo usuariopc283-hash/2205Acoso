@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Muestreo/Muestreo.vcxproj" Id="bcb256c9-993f-47c0-a101-2af75c814757" />
+</Solution>
