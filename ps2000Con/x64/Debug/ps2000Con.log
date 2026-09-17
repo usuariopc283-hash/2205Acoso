@@ -1,3 +1,0 @@
-﻿  Ui.cpp
-Mustreo.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
-  ps2000Con.vcxproj -> C:\Users\sergi\OneDrive\Escritorio\ps2000\x64\Debug\ps2000Con.exe
